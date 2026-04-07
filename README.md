@@ -1,7 +1,9 @@
 # USD-KES-Forecasting-App
+
 An R Shiny application using ARIMA and Random Forest to forecast USD/KES exchange rates.
 #📈 USD/KES Exchange Rate Forecasting Engine
 Statistical ARIMA vs. Machine Learning (Random Forest)
+
 #📝 Project Overview
 This project addresses the volatility of the Kenyan Shilling (KES) against the US Dollar (USD). Using historical exchange rate data, I developed and compared two distinct forecasting methodologies to determine which provides more reliable insights for financial decision-making in the Kenyan market.
 
